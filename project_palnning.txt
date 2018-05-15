@@ -3,4 +3,7 @@ Phase 1:
 
 	Analyse the requirement
 	Create estimation sheet
+
+Phase 2:
+	Software Installation
 	
